@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem composed by a gentleman in prison and in irons</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43673</idno><idno type="EEBO-CITATION">489260623</idno>
+  <idno type="VID">208673</idno>
+  <idno type="EEBO-PROQUEST">2240896117</idno>
+  
+            <idno type="OCLC"> 489260623</idno>
+            <idno type="OCLC">ocn 489260623</idno>
+            <idno type="STC">Wing P2670A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208673)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2956:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem composed by a gentleman in prison and in irons</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: New York Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:208673:1"/>
+            <pb n="1" facs="tcp:208673:2"/>
+            <head>A POEM, Composed by a GENTLEMAN in PRISON AND IN IRONS.</head>
+            <lg>
+               <l>BAT on proud Billows <hi>Boreas</hi> blow,</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>well curled Waves hi<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Your Incivility doth show,</l>
+               <l>That <hi>Innocence</hi> is <hi>Tempest</hi> Proof.</l>
+               <l>Tho' surly <hi>Nereus</hi> frown, my Thoughts are calm;</l>
+               <l>Then strike <hi>Affliction,</hi> for thy Wounds are <hi>Balm.</hi>
+               </l>
+            </lg>
+            <pb n="2" facs="tcp:208673:3"/>
+            <lg>
+               <l>That which the World calls a <hi>Jail,</hi>
+               </l>
+               <l>A private Closet is to me,</l>
+               <l>Whilst a <hi>good Conscience</hi> is my Bail,</l>
+               <l>And <hi>Innocence</hi> my Liberty:</l>
+               <l>Locks, Bars, and Solitude together met,</l>
+               <l>Make me no Pris'ner, but an <hi>Anchorite.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I, whilst I wish'd to be Retir'd,</l>
+               <l>Into this private Room was turn'd,</l>
+               <l>As if their <hi>Wisdoms</hi> had conspir'd</l>
+               <l>The SALAMANDER should be burn'd;</l>
+               <l>But had they known how I enjoyed Me,</l>
+               <l>Prompt, by malicious Spite, they'd set me free.</l>
+            </lg>
+            <lg>
+               <l>The CYNICK hugs his <hi>Poverty,</hi>
+               </l>
+               <l>The PE<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>CAN her <hi>Wilderness</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>Conten<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> STOCKS, we <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Make Torments easy to their <hi>Apathie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>These <hi>Manacles</hi> upon my Arm</l>
+               <l>I as my Mistress Favours wear,</l>
+               <l>And then to keep my Ancles warm</l>
+               <l>I have some <hi>Iron Shackles</hi> there.</l>
+               <l>These Walls are but my Prison, and this Cell,</l>
+               <l>Which Men call <hi>Jail,</hi> does prove my Cittadel.</l>
+            </lg>
+            <lg>
+               <l>So he that struck at <hi>Jason</hi>'s Life,</l>
+               <l>Thinking he had his Purpose sure,</l>
+               <l>By a malicious friendly Knife</l>
+               <l>Did only wound him to a Cure.</l>
+               <l>
+                  <hi>Malice,</hi> I see, wants Wit; for what is meant</l>
+               <l>
+                  <hi>Mischief,</hi> ofttimes proves Favour by th'Event.</l>
+            </lg>
+            <pb n="3" facs="tcp:208673:3"/>
+            <lg>
+               <l>I'm in this Cabinet lock'd up,</l>
+               <l>Like some high prized <hi>Margarite;</hi>
+               </l>
+               <l>Or, like some great <hi>Mogul</hi> or <hi>Pope,</hi>
+               </l>
+               <l>Am Cloyster'd up from vulgar Sight.</l>
+               <l>Retirement is a Piece of Majesty,</l>
+               <l>And thus, proud <hi>Sultan,</hi> I'm as great as Thee.</l>
+            </lg>
+            <lg>
+               <l>Here Sin, for want of Food, must starve,</l>
+               <l>Where tempting Objects are not seen,</l>
+               <l>And those strong Walls do only serve</l>
+               <l>To keep Vice out, and keep me in.</l>
+               <l>
+                  <hi>Malice</hi> of late's grown charitable sure,</l>
+               <l>I'm not <hi>committed,</hi> but I'm kept secure.</l>
+            </lg>
+            <lg>
+               <l>When once my PRINCE Affliction hath,</l>
+               <l>
+                  <hi>Prosperity</hi> doth <hi>Treason</hi> seem,</l>
+               <l>And to make smooth so rough a Path,</l>
+               <l>I can learn <hi>Patience</hi> now from him:</l>
+               <l>For, not to suffer, shews no Loyal Heart;</l>
+               <l>When <hi>Kings</hi> want Ease, <hi>Subjects</hi> should bear a Part.</l>
+            </lg>
+            <lg>
+               <l>Have ye not seen the <hi>Nightingale,</hi>
+               </l>
+               <l>A Pilgrim coop't up in a Cage,</l>
+               <l>How she doth chant her wonted Tale</l>
+               <l>How she her narrow Hermitage?</l>
+               <l>Ev'n then, her charming Melody doth prove,</l>
+               <l>That all her Boughs are Trees, her Cage a Grove.</l>
+            </lg>
+            <lg>
+               <l>My Soul is free as ambient Air,</l>
+               <l>Altho' my baser Parts immur'd,</l>
+               <l>While Loyal Thoughts do still repair</l>
+               <l>T' accompany my Solitude:</l>
+               <l>And tho' immur'd, yet I can chirp and sing</l>
+               <l>Disgrace to <hi>Rebels,</hi> Glory to my KING.</l>
+            </lg>
+            <pb n="4" facs="tcp:208673:4"/>
+            <lg>
+               <l>What tho' I cannot see my KING</l>
+               <l>Nor in His Person, nor His Coin,</l>
+               <l>Yet <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>plation is a Thing</l>
+               <l>That renders, what I have not, Mine.</l>
+               <l>My KING from me, what Adamant can part,</l>
+               <l>Whom I do wear engraven on my Heart.</l>
+            </lg>
+            <lg>
+               <l>I am that Bird whom they combine</l>
+               <l>Thus to deprive of Liberty,</l>
+               <l>But tho' they do my <hi>Case</hi> confine,</l>
+               <l>yet, maugre Spite, my Soul is free:</l>
+               <l>Altho' <hi>Rebellion</hi> do my Body bind,</l>
+               <l>My KING can only captivate my Mind.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
